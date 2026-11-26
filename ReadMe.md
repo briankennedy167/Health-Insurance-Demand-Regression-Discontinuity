@@ -53,7 +53,7 @@ The analysis uses the `fhs.csv` dataset and restricts the sample to income level
 
 | File | Description |
 |---|---|
-| Problem Set Two.R | Original R analysis and regression models |
+| health_insurance_rd_analysis.R | Original R analysis and regression models |
 | fhs.csv | Dataset used in the analysis |
 | README.md | Project documentation |
 
